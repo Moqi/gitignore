@@ -1,0 +1,11 @@
+*.*
+Assets
+Builds
+Library
+obj
+ProjectSettings
+Temp
+
+!*.html
+!*.unity3d
+!*.gitignore
