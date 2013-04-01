@@ -1,6 +1,8 @@
 *.*
 Assets
-Builds
+Builds/Linux
+Builds/Mac
+Builds/Windows
 Library
 obj
 ProjectSettings
