@@ -1,4 +1,4 @@
 gitignore
 =========
 
-Шаблоны gitignore для Unity
+Шаблоны gitignore для Unity3d
